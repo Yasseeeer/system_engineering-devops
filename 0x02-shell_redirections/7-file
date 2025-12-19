@@ -1,3 +1,2 @@
 #!/bin/bash
-# Create a file with a complex name containing "Best School"
 echo "Best School" > "\*\\'\"Best School\"\'\\*$\?\*\*\*\*\*:)"
